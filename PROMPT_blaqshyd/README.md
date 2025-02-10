@@ -1,5 +1,8 @@
-## Github Username
-- @blaqshyd
+## Name
+### Daniel A
 
-## Contributions
-- 
+## Github Username
+### @blaqshyd
+
+## Tech Stack
+### Mobile (Flutter) | Backend (NodeJs) | SR (Solidity | Rust) | DB (MongoDB) | OS (Linux)
